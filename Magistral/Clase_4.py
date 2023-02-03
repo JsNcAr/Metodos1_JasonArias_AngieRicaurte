@@ -16,3 +16,6 @@ ax = fig.add_subplot(111, projection='3d')
 ax.scatter(r[0], r[1], r[2], c='r', marker='o', s=25)
 
 plt.savefig('Figura_4.png', dpi=300)
+
+fig = plt.figure(figsize=(5, 5))
+ax = fig.add_subplot(111, projection='polar')
