@@ -23,7 +23,19 @@ y = np.linspace(0, 1, n)
 
 X, Y = np.meshgrid(x, y)
 
+Ex = np.zeros((n, n))
+Ey = np.zeros((n, n))
+
+for i in range(n):
+    for j in range(n):
+        Ex[i, j] = 1.
+
 fig = plt.figure(figsize=(5, 5))
 ax = fig.add_subplot(111)
 ax.scatter(X, Y, c='r', marker='o', s=25)
+
+for i in range(n):
+    for j in range(n):
+        ax.quiver(x[i], y[j], Ex[i, j], Ey[i, j], color='b')
+
 plt.savefig('2D.png', dpi=300)
