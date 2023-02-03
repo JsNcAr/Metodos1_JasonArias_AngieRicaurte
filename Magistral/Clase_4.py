@@ -15,6 +15,15 @@ ax = fig.add_subplot(111, projection='3d')
 
 ax.scatter(r[0], r[1], r[2], c='r', marker='o', s=25)
 
-plt.savefig('Figura_4.png', dpi=300)
+plt.savefig('3D.png', dpi=300)
 
-plt.show()
+n = 4
+x = np.linspace(0, 1, n)
+y = np.linspace(0, 1, n)
+
+X, Y = np.meshgrid(x, y)
+
+fig = plt.figure(figsize=(5, 5))
+ax = fig.add_subplot(111)
+ax.scatter(X, Y, c='r', marker='o', s=25)
+plt.savefig('2D.png', dpi=300)
