@@ -1,13 +1,14 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib import rc
+import random
 
 
 def Function(x):
-    return 5 * (1 - np.exp(-x)) - x
+    return 0.5 * (3 * x**2 - 1)
 
 
-x = np.linspace(0, 10, 100)
+x = np.linspace(-1, 1, 100)
 y = Function(x)
 
 plt.plot(x, y, label='Function', color='r', linewidth=2, linestyle='-')
@@ -27,6 +28,9 @@ def Newton_Raphson(f, df, xn, max_iter=100, tol=1e-5):
         try:
             xn1 = xn - f(xn) / df(f, xn)
             error = abs(f(xn) / df(f, xn))
+            #print(
+            #    f'Iteration {it}: xn = {xn}, x = {xn1}, error = {error}, f(x) = {f(xn1)}, df(x) = {df(f, xn)}'
+            #)
         except ZeroDivisionError:
             print('Error: division by zero')
         xn = xn1
@@ -35,6 +39,6 @@ def Newton_Raphson(f, df, xn, max_iter=100, tol=1e-5):
     return xn
 
 
-x = Newton_Raphson(Function, central_difference, 4)
+x = Newton_Raphson(Function, central_difference, random.uniform(-1, 1))
 
 print(x)
