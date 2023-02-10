@@ -39,6 +39,31 @@ def Newton_Raphson(f, df, xn, max_iter=100, tol=1e-5):
     return xn
 
 
-x = Newton_Raphson(Function, central_difference, random.uniform(-1, 1))
+def GetAllRoots(x, f, tolerancia=5):
 
-print(x)
+    Roots = np.array([])
+
+    for i in x:
+
+        root = Newton_Raphson(f, central_difference, i)
+
+        if root != False:
+
+            croot = np.round(root, tolerancia)
+
+            if croot not in Roots:
+                Roots = np.append(Roots, croot)
+
+    Roots.sort()
+
+    return Roots
+
+
+def legendre_3(x):
+    return 0.5 * (5 * x**3 - 3 * x)
+
+
+x = np.linspace(-1, 1, 100)
+roots = GetAllRoots(x, legendre_3)
+
+print(roots)
