@@ -4,3 +4,4 @@
 ____________________________________________________________________________________
 
 <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/tree/main/Tareas/Taller_01" target="_blank">Taller 1</a>
+<a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Parcial_1/p1.ipynb" target="_blank">Parcial 1</a>
