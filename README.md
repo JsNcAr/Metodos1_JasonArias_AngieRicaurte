@@ -3,6 +3,7 @@
 ### Jason Nicolas Arias - Angie Ricaurte
 ____________________________________________________________________________________
 
-<a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/tree/main/Tareas/Taller_01" target="_blank">Taller 1</a>
-<a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/tree/main/Tareas/Taller_02" target="_blank">Taller 2</a>
-<a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Parcial_1/p1.ipynb" target="_blank">Parcial 1</a>
+<a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/tree/main/Tareas/Taller_01" target="_blank">Taller 1</a> <br>
+<a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/tree/main/Tareas/Taller_02" target="_blank">Taller 2</a> <br>
+<a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Parcial_1/p1.ipynb" target="_blank">Parcial 1</a> <br>
+<a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/tree/main/Parcial2" target="_blank">Parcial 2</a> <br>
