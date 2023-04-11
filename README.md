@@ -1,6 +1,8 @@
 ## Metodos Computacionales 2023
 ### Universidad de los Andes
 ### Jason Nicolas Arias - Angie Ricaurte
+<img src="http://revistaeducacionvirtual.com/wp-content/uploads/2016/09/universidad-de-los-andes-logo.png" width="200" height="200" />
+<br>
 ____________________________________________________________________________________
 
 <ul>
