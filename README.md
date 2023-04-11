@@ -23,9 +23,14 @@ ________________________________________________________________________________
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_02/Integracion_07.ipynb" target="_blank">Volumen esfera</a> <br> </li>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_02/Integracion_14.ipynb" target="_blank">Legendre simbolico</a> <br> </li>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_02/Integracion_17.ipynb" target="_blank">Radiacion cuerpo negro</a> <br> </li>
-            <li> to be continued ... </li>
+            <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_02/Integracion_18.ipynb" target="_blank">Gaus-Hermite</a> <br> </li>
+            <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_02/Integracion_19.ipynb" target="_blank">Ecuacion banda prohibida</a> <br> </li>
         </ul>
     </li>
-    <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Parcial_1/p1.ipynb" target="_blank">Parcial 1</a> <br>
-    <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/tree/main/Parcial2" target="_blank">Parcial 2</a> <br>
+    <li>
+        <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/tree/main/Tareas/Taller_03" target="_blank">Taller 3</a> 
+        <ul>
+            <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_03/LinealAlgebra_06.ipynb" target="_blank">Successive over-relaxation</a> <br> </li>
+        </ul>
+    </li>
 </ul>
