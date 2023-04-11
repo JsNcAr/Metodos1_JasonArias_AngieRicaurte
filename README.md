@@ -7,7 +7,8 @@ ________________________________________________________________________________
 
 <ul>
     <li>
-        <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/tree/main/Tareas/Taller_01" target="_blank">Taller 1</a> <ul>
+        <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/tree/main/Tareas/Taller_01" target="_blank">Taller 1</a> 
+        <ul>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/tree/main/Tareas/Taller_01/Derivacion" target="_blank">Derivacion</a> <br> </li>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_01/2_01_Factorial.ipynb" target="_blank">Factorial</a> <br> </li>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_01/2_02_Maximos.ipynb" target="_blank">Maximos de un alista de datos</a> <br> </li>
@@ -36,7 +37,6 @@ ________________________________________________________________________________
     </li>
     <li>
         <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Parcial_1/p1.ipynb" target="_blank">Parcial 1: interpolacion lagrange matricial</a> 
-        </ul>
     </li>
     <li>
         <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/tree/main/Parcial_2" target="_blank">Parcial 2</a> 
