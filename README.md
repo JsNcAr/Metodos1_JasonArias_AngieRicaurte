@@ -33,4 +33,8 @@ ________________________________________________________________________________
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_03/LinealAlgebra_06.ipynb" target="_blank">Successive over-relaxation</a> <br> </li>
         </ul>
     </li>
+    <li>
+        <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Parcial_1/p1.ipynb" target="_blank">Parcial 1: interpolacion lagrange matricial</a> 
+        </ul>
+    </li>
 </ul>
