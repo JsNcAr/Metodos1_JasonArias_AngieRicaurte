@@ -40,6 +40,7 @@ ________________________________________________________________________________
         <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/tree/main/Parcial_2" target="_blank">Parcial 2</a> 
         <ul>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Parcial_2/Ejercicio_integracion_teorico_22.pdf" target="_blank">Integracion teorica campo electrico</a> <br> </li>
+            <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Parcial_2/p2.ipynb" target="_blank">Integracion numerica campo electrico</a> <br> </li>
         </ul>
     </li>
 </ul>
