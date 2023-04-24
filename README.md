@@ -35,6 +35,7 @@ ________________________________________________________________________________
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_03/LinearAlgebra_06.ipynb" target="_blank">Successive over-relaxation</a> <br> </li>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_03/LinearAlgrebra_03.ipynb" target="_blank">Matrix product</a> <br> </li>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_03/LinearAlgebra_07.ipynb" target="_blank">LU Decomposition</a> <br> </li>
+            <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_03/LinearAlgebra_09.ipynb" target="_blank">Jacobi eigenvalues</a> <br> </li>
         </ul>
     </li>
     <li>
