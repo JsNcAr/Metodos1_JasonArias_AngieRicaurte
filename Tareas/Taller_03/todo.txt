@@ -4,11 +4,11 @@ Angela: LinearAlgebra 05 @teorico
 Nicolas: LinearAlgebra 06 @computacional
 x Nicolas: LinearAlgebra 07 @computacional
 x Nicolas: LinearAlgebra 09 @computacional
-Angela: LinearAlgebra 10 @computacional
+x Angela: LinearAlgebra 10 @computacional
 Angela: LinearAlgebra 12 @computacional
 x Nicolas: LinearAlgebra 13 @computacional
 x Nicolas: LinearAlgebra 14 @computacional
 Angela: LinearAlgebra 15 @computacional
-Angela: Least Squares 01 @computacional
+x Angela: Least Squares 01 @computacional
 Nicolas: Least Squares 06 @teorico
 Nicolas: Least Squares 07 @computacional
