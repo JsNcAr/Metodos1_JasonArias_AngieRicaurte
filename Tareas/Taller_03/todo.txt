@@ -1,7 +1,7 @@
 x Angela: LinearAlgebra 03 @computacional
 Angela: LinearAlgebra 04 @teorico
 Angela: LinearAlgebra 05 @teorico
-Nicolas: LinearAlgebra 06 @computacional
+x Nicolas: LinearAlgebra 06 @computacional
 x Nicolas: LinearAlgebra 07 @computacional
 x Nicolas: LinearAlgebra 09 @computacional
 x Angela: LinearAlgebra 10 @computacional
