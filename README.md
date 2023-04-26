@@ -41,6 +41,7 @@ ________________________________________________________________________________
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_03/LinearAlgebra_10.ipynb" target="_blank">Reverse power eigenvalues</a> <br> </li>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_03/LinearAlgebra_13.ipynb" target="_blank">Lie Algebra SO3</a> <br> </li>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_03/LinearAlgebra_14.ipynb" target="_blank">Lie algebra SU2</a> <br> </li>
+            <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_03/LinearAlgebra_15.ipynb" target="_blank">Lie algebra 4</a> <br> </li>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_03/LeastSquares_01.ipynb" target="_blank">3 Lines</a> <br> </li>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_03/LeastSquares_06.pdf" target="_blank">Minimize cost fucntion</a> <br> </li>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_03/LeastSquares_07.ipynb" target="_blank">Logistic regression</a> <br> </li>
