@@ -23,6 +23,7 @@ ________________________________________________________________________________
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_02/Derivadas_8.ipynb" target="_blank">Comparacion tecnicas de derivacion</a> <br> </li>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_02/Integracion_01.jpg" target="_blank">Demostracion regla trapecio</a> <br> </li>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_02/Integracion_07.ipynb" target="_blank">Volumen esfera</a> <br> </li>
+            <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_02/Integracion_12.ipynb" target="_blank">Jacobian O(4)</a> <br> </li>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_02/Integracion_14.ipynb" target="_blank">Legendre simbolico</a> <br> </li>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_02/Integracion_17.ipynb" target="_blank">Radiacion cuerpo negro</a> <br> </li>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_02/Integracion_18.ipynb" target="_blank">Gaus-Hermite</a> <br> </li>
