@@ -6,8 +6,8 @@ x? Nicolas: Probability 09 @computacional
 x Nicolas: Probability 12 @computacional
 Angie: Discrete 03 @computacional
 x Nicolas: Discrete 04 @computacional
-Nicolas: Metroplis 01 @computacional
-Nicolas: Metroplis 03 @computacional
+x Nicolas: Metroplis 01 @computacional
+x Nicolas: Metroplis 03 @computacional
 Angie: Metroplis 04 @computacional
 Nicolas: Parameter 03 @computacional
 Angie: Parameter 05 @mixed
