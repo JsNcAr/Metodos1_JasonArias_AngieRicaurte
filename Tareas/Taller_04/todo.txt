@@ -9,5 +9,5 @@ x Nicolas: Discrete 04 @computacional
 x Nicolas: Metroplis 01 @computacional
 x Nicolas: Metroplis 03 @computacional
 Angie: Metroplis 04 @computacional
-Nicolas: Parameter 03 @computacional
+x Nicolas: Parameter 03 @computacional
 Angie: Parameter 05 @mixed
