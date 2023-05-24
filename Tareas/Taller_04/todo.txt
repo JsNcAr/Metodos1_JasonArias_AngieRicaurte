@@ -1,13 +1,13 @@
 Angie: CountingTechniques 20 @mixed
-Angie: CountingTechniques 22 @mixed
-Angie: CountingTechniques 23 @computacional
-Angie: Probability 04 @computacional
+x Angie: CountingTechniques 22 @mixed
+x Angie: CountingTechniques 23 @computacional
+x Angie: Probability 04 @computacional
 x Nicolas: Probability 09 @computacional
 x Nicolas: Probability 12 @computacional
-Angie: Discrete 03 @computacional
+x Angie: Discrete 03 @computacional
 x Nicolas: Discrete 04 @computacional
 x Nicolas: Metroplis 01 @computacional
 x Nicolas: Metroplis 03 @computacional
-Angie: Metroplis 04 @computacional
+x Angie: Metroplis 04 @computacional
 x Nicolas: Parameter 03 @computacional
-Angie: Parameter 05 @mixed
+x Angie: Parameter 05 @mixed
