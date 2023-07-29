@@ -49,6 +49,20 @@ ________________________________________________________________________________
         </ul>
     </li>
     <li>
+        <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/tree/main/Tareas/Taller_04" target="_blank">Taller 4</a>
+        <ul>
+            <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_04/CountingTechniques_22.ipynb" target="_blank">Conteo: Combinacion con repeticion</a> <br> </li>
+            <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_04/CountingTechniques_23.ipynb" target="_blank">Conteo: Combinacion simple</a> <br> </li>
+            <li> <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_04/Discrete_03.ipynb" target="_blank">Distribucion de probabilidad: Binomial</a> <br> </li>
+            <li> <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_04/Discrete_04.ipynb" target="_blank">Distribucion de probabilidad: Covarianza</a> <br> </li>
+            <li> <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_04/Metropolis_01.ipynb" target="_blank">Metropolis: Lanzamiento trucado</a> <br> </li>
+            <li> <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_04/Parameter_03.ipynb" target="_blank">Estimacion de parametros: Gaussiana</a> <br> </li>
+            <li> <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_04/Parameters_05.ipynb" target="_blank">Estimacion de parametros: Gaussiana con ruido</a> <br> </li>
+            <li> <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_04/Probability_04.ipynb" target="_blank">Probabilidad: Cumpleaños</a> <br> </li>
+            <li> <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_04/Probability_09.ipynb" target="_blank">Probabilidad: Lanzamiento de monedas</a> <br> </li>
+            <li> <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Tareas/Taller_04/Probability_12.ipynb" target="_blank">Probabilidad: Ensamble microcanonico</a> <br> </li>
+        </ul>
+    <li>
         <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Parcial_1/p1.ipynb" target="_blank">Parcial 1: interpolacion lagrange matricial</a> 
     </li>
     <li>
@@ -57,5 +71,11 @@ ________________________________________________________________________________
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Parcial_2/Ejercicio_integracion_teorico_22.pdf" target="_blank">Integracion teorica campo electrico</a> <br> </li>
             <li><a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/blob/main/Parcial_2/p2.ipynb" target="_blank">Integracion numerica campo electrico</a> <br> </li>
         </ul>
+    </li>
+    <li>
+        <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/tree/main/Parcial_3" target="_blank">Parcial 3</a>
+    </li>
+    <li>
+        <a href="https://github.com/JsNcAr/Metodos1_JasonArias_AngieRicaurte/tree/main/Parcial_Final" target="_blank">Parcial Final</a>
     </li>
 </ul>
